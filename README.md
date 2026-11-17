@@ -1,8 +1,8 @@
 # my repo
 
 
-important_variable = 10;
+important_variable_renamed = 10;
 
-use(important_variable);
+use(important_variable_renamed);
 
 return 0;
